@@ -2184,24 +2184,24 @@ ul.icons li .icon-large:before {
   color: white;
   border-right: 0px;
 }
-.category-hub,
-.category-HUB,
-.category-Hub {
+.category-demo,
+.category-demo,
+.category-demo {
   background-color: #a20690;
 }
-.category-hub > a,
-.category-HUB > a,
-.category-Hub > a {
+.category-demo > a,
+.category-demo > a,
+.category-demo > a {
   color: white;
 }
-.category-start,
-.category-START,
-.category-Start {
+.category-visualize,
+.category-visualize,
+.category-visualize {
   background-color: #5fb728;
 }
-.category-start > a,
-.category-START > a,
-.category-Start > a {
+.category-visualize > a,
+.category-visualize > a,
+.category-visualize > a {
   color: black;
 }
 .category-projects,

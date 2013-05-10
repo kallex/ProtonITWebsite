@@ -6,9 +6,9 @@
             <li class="isotope-sort-item"><a href="#" id="TileDefaultFilter" class=" label category-all active " data-filter=":not(.About)">All</a></li>
             <li class="isotope-sort-item"><a href="#"  class="label category-news" data-filter=".News">News</a></li>
             <li class="isotope-sort-item"><a href="#"  class="label category-projects" data-filter=".Projects">Projects</a></li>
-            <li class="isotope-sort-item"><a href="#"  class="label category-hub" data-filter=".HUB">HUB</a></li>
-            <li class="isotope-sort-item"><a href="#"  class="label category-start" data-filter=".START">START</a></li>
             <li class="isotope-sort-item"><a href="#"  class="label category-maps" data-filter=".Maps">Maps</a></li>
+            <li class="isotope-sort-item"><a href="#"  class="label category-demo" data-filter=".Demo">Demo</a></li>
+            <li class="isotope-sort-item"><a href="#"  class="label category-visualize" data-filter=".Visualize">Visualize</a></li>
             <li class="isotope-sort-item"><a href="#"  class="label category-about" data-filter=".About">About</a></li>
         </ul>
     </div>
